@@ -1,6 +1,6 @@
 {
     "github_url":"https://meghasehgal2001.github.io/cf-data/",
-    "vercel_api":"",
+    "vercel_api":"http://192.168.29.80:5000/",
     "code_editor_url":"",
     "latest_version":27,
     "flag":0,
