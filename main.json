@@ -43,4 +43,12 @@
             "buttonText":"Send"
         },
     },
+    "updateAlert":{
+        "heading":"Update",
+        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+        "showMailBox":false,
+        "mailBox":{},
+        "showList": true,
+        "list":["bug fixes","ui change"]
+    }
 }
