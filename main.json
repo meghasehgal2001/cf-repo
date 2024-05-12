@@ -41,7 +41,7 @@
             "email":"ethosforces@gmail.com",
             "inputBoxPlaceholder":"Write your message here..",
             "buttonText":"Send"
-        },
+        }
     },
     "updateAlert":{
         "heading":"Update",
