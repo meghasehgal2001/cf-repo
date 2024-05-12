@@ -3,6 +3,7 @@
     "vercel_api":"http://192.168.29.80:5000/",
     "code_editor_url":"",
     "latest_version":27,
+    "mandatory":true,
     "flag":0,
     "feedback":{
         "msg":"",
