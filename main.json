@@ -1,7 +1,7 @@
 {
     "github_url":"https://meghasehgal2001.github.io/cf-data/",
-    "vercel_api":"http://192.168.29.80:5000/",
-    "code_editor_url":"http://192.168.29.80:3000/codeforces/",
+    "vercel_api":"https://codeforcesallyv2be-mesonswebgmailcoms-projects.vercel.app/",
+    "code_editor_url":"https://react-xcode.vercel.app/codeforces/",
     "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
     "latest_version":27,
     "mandatory":true,
