@@ -3,7 +3,7 @@
     "vercel_api":"https://codeforcesallyv2be-mesonswebgmailcoms-projects.vercel.app/",
     "code_editor_url":"https://react-xcode.vercel.app/codeforces/",
     "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
-    "latest_version":27,
+    "latest_version":7,
     "mandatory":true,
     "flag":0,
     "feedback":{
