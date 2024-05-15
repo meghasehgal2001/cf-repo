@@ -60,10 +60,15 @@
         "mailBox":{}
     },
     "messageAlert":{
-        "showMessageAlert":false,
-        "heading":"",
-        "subheading":"",
+        "showMessageAlert":true,
+        "heading":"Message",
+        "subheading":"We have a new app check it out now",
         "showMailBox": false,
-        "mailBox":{}
+        "mailBox":{},
+        "showUrl": true,
+        "urlData":{
+            "url":"www.google.com",
+            "text":"Click to open"
+        }
     }
 }
