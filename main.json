@@ -60,7 +60,7 @@
         "mailBox":{}
     },
     "messageAlert":{
-        "showMessageAlert":true,
+        "showMessageAlert":false,
         "heading":"Message",
         "subheading":"We have a new app check it out now",
         "showMailBox": false,
