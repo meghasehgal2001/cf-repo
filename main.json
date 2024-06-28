@@ -72,13 +72,8 @@
         }
     },
     "carousel":{
-        "showCarousel":true,
+        "showCarousel":false,
         "banners":[
-            {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
-                "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
-            }
         ]
     }
 }
