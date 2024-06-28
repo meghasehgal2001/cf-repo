@@ -1,0 +1,84 @@
+{
+    "github_url":"https://meghasehgal2001.github.io/cf-data/",
+    "vercel_api":"https://codeforcesallyv2be-mesonswebgmailcoms-projects.vercel.app/",
+    "code_editor_url":"https://react-xcode.vercel.app/codeforces/",
+    "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+    "latest_version":7,
+    "mandatory":true,
+    "flag":0,
+    "feedback":{
+        "msg":"",
+        "url":"",
+        "options":[],
+        "url_text":""
+    },
+    "msg":"",
+    "download_url":"",
+    "options":[],
+    "app_url":"https://play.google.com/store/apps/details?id=com.ethosforces",
+    "release_features":[],
+    "gmail":"ethosforces@gmail.com",
+    "downTimeAlert":{
+        "showDownTimeAlert":false,
+        "heading":"Notice",
+        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Please report to us",
+            "subject":"App is down for maintenance",
+            "body":"",
+            "email":"ethosforces@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        }
+    },
+    "apiFailAlert":{
+        "heading":"Notice",
+        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Report to us",
+            "subject":"App is unable to fetch data",
+            "body":"",
+            "email":"ethosforces@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        }
+    },
+    "updateAlert":{
+        "heading":"Update",
+        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+        "showMailBox":false,
+        "mailBox":{},
+        "showList": true,
+        "list":["bug fixes","ui change"]
+    },
+    "rateAlert":{
+        "heading":"Rate Us",
+        "subheading":"Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+        "showMailBox": false,
+        "mailBox":{}
+    },
+    "messageAlert":{
+        "showMessageAlert":false,
+        "heading":"Message",
+        "subheading":"We have a new app check it out now",
+        "showMailBox": false,
+        "mailBox":{},
+        "showUrl": true,
+        "urlData":{
+            "url":"www.google.com",
+            "text":"Click to open"
+        }
+    },
+    "carousel":{
+        "showCarousel":true,
+        "banners":[
+            {
+                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
+                "id":1,
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+            }
+        ]
+    }
+}
