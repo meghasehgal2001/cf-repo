@@ -74,14 +74,8 @@
         }
     },
     "carousel":{
-        "showCarousel":true,
-        "banners":[
-            {
-                "url":"https://meghasehgal2001.github.io/cf-repo/react-ally-banner.jpeg",
-                "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.reactally"
-            }
-        ]
+        "showCarousel":false,
+        "banners":[ ]
     },
     "adFrequency": 3
 }
