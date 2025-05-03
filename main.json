@@ -77,5 +77,6 @@
         "showCarousel":false,
         "banners":[ ]
     },
-    "adFrequency": 3
+    "adFrequency": 3,
+    "noOfMinsForAdFree": 5
 }
