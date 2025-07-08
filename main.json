@@ -78,5 +78,9 @@
         "banners":[ ]
     },
     "adFrequency": 3,
-    "noOfMinsForAdFree": 5
+    "noOfMinsForAdFree": 5,
+    "bannerAd": {
+        "navigator": true,
+        "subpage": true
+    }
 }
