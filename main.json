@@ -1,86 +1,109 @@
 {
-    "github_url":"https://meghasehgal2001.github.io/cf-data/",
-    "vercel_api":"https://codeforcesallyv2be-mesonswebgmailcoms-projects.vercel.app/",
-    "codeforces_web":"https://codeforces-web.vercel.app/",
-    "code_editor_url":"https://react-xcode.vercel.app/codeforces/",
-    "projects_url":"https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
-    "new_projects_url":"https://leetcode-ally.github.io/projects/newprojects.json",
-    "latest_version":14,
-    "mandatory":true,
-    "flag":0,
-    "feedback":{
-        "msg":"",
-        "url":"",
-        "options":[],
-        "url_text":""
-    },
-    "msg":"",
-    "download_url":"",
-    "options":[],
-    "app_url":"https://play.google.com/store/apps/details?id=com.ethosforces",
-    "release_features":[],
-    "gmail":"ethosforces@gmail.com",
-    "downTimeAlert":{
-        "showDownTimeAlert":false,
-        "heading":"Notice",
-        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Please report to us",
-            "subject":"App is down for maintenance",
-            "body":"",
-            "email":"ethosforces@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        }
-    },
-    "apiFailAlert":{
-        "heading":"Notice",
-        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Report to us",
-            "subject":"App is unable to fetch data",
-            "body":"",
-            "email":"ethosforces@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        }
-    },
-    "updateAlert":{
-        "heading":"Update",
-        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
-        "showMailBox":false,
-        "mailBox":{},
-        "showList": false,
-        "list":[]
-    },
-    "rateAlert":{
-        "heading":"Rate Us",
-        "subheading":"Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
-        "showMailBox": false,
-        "mailBox":{}
-    },
-    "messageAlert":{
-        "showMessageAlert":false,
-        "heading":"Message",
-        "subheading":"We have a new app check it out now",
-        "showMailBox": false,
-        "mailBox":{},
-        "showUrl": true,
-        "urlData":{
-            "url":"www.google.com",
-            "text":"Click to open"
-        }
-    },
-    "carousel":{
-        "showCarousel":false,
-        "banners":[ ]
-    },
-    "adFrequency": 3,
-    "noOfMinsForAdFree": 5,
-    "bannerAd": {
-        "navigator": true,
-        "subpage": true
+  "github_url": "https://meghasehgal2001.github.io/cf-data/",
+  "vercel_api": "https://codeforcesallyv2be-mesonswebgmailcoms-projects.vercel.app/",
+  "codeforces_web": "https://codeforces-web.vercel.app/",
+  "code_editor_url": "https://react-xcode.vercel.app/codeforces/",
+  "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+  "new_projects_url": "https://leetcode-ally.github.io/projects/newprojects.json",
+  "latest_version": 15,
+  "mandatory": true,
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "https://play.google.com/store/apps/details?id=com.ethosforces",
+  "release_features": [],
+  "gmail": "ethosforces@gmail.com",
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "ethosforces@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
     }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "ethosforces@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": []
+  },
+  "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "showMailBox": false,
+    "mailBox": {}
+  },
+  "messageAlert": {
+    "showMessageAlert": false,
+    "heading": "Message",
+    "subheading": "We have a new app check it out now",
+    "showMailBox": false,
+    "mailBox": {},
+    "showUrl": true,
+    "urlData": {
+      "url": "www.google.com",
+      "text": "Click to open"
+    }
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "adFrequency": 3,
+  "noOfMinsForAdFree": 5,
+  "bannerAd": {
+    "navigator": true,
+    "subpage": true
+  },
+  "adInfo": {
+    "banner": {
+      "navigator": false,
+      "subpage": false,
+      "queueBasedBannerAd": true,
+      "queueAdFrequency": 30000,
+      "adUnit": "22_00000010000029000000200000220000020000001500000350000024000001100000000000014000002500000160000004000003200000190000007000003100000170000036000001300000030000018000003300000060000012000000900000370000010000002600000230000030000002100000050000027000000800000340000028_0012000085000690007200097000910009100079000850012100091000750008600138000840009700141000860009100089000850012200097000890007300090001290009200077000810007500085000970013900074001470008300079"
+    },
+    "interstitial": {
+      "adFrequency": 3,
+      "aiAdFrequency": 300,
+      "adUnit": "22_00000320000019000001200000160000028000003600000250000015000000500000300000018000000400000020000029000002600000210000011000003300000090000000000000100000220000031000002000000350000017000003700000340000024000001300000270000010000002300000060000003000000700000140000008_0008400097000900008600080000870007500091001390008100097001380006900082000810009700085000900012900121001200007200084000970008400091000900008400079000850007400077000750007300122001410009100147"
+    },
+    "rewarded": {
+      "show": true,
+      "addFreeMins": 5,
+      "adUnit": "11_00000350000017000000000000250000006000003400000080000019000003100000290000002000000700000370000004000003200000130000016000003000000210000012000000500000150000018000002400000030000026000002300000110000014000002800000010000020000003600000270000010000000900000330000022_0006500069001100006400062000650013600075000760007300058001300007200127000750006300064000720007500068001280006900075000680011100070000640006300069000730010900075000640006300066001180006600061"
+    },
+    "native": {
+      "show": true,
+      "adUnit": "22_00000040000000000003400000070000002000003500000220000023000000500000060000029000001800000080000020000003300000120000025000002600000170000027000002800000110000016000003200000300000024000001900000010000036000002100000370000013000000300000150000009000001400000100000031_0013800121000850014100069000920007200075001390007300083000970014700097000850009000075000810009100074000810008500086000880008000079000970012000086000970008500085001220009100129000910007700087"
+    }
+  }
 }
