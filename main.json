@@ -5,7 +5,7 @@
   "code_editor_url": "https://react-xcode.vercel.app/codeforces/",
   "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
   "new_projects_url": "https://leetcode-ally.github.io/projects/newprojects.json",
-  "latest_version": 15,
+  "latest_version": 16,
   "mandatory": true,
   "flag": 0,
   "feedback": {
